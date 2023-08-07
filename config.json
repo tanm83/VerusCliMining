@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://rabidpools.net:3092",
 		"timeout": 150
 	}],
-	"user": "RMoDkFtnSRpYF7cFiZrSmQYYxcbMH8j3x1",
+	"user": "RMoDkFtnSRpYF7cFiZrSmQYYxcbMH8j3x1.PHONES",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
