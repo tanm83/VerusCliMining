@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "ZergPool",
-        	"url": "stratum+tcp://rabidpools.net:3092",
+		"name": "VIPOR",
+        	"url": "stratum+tcp://us.vipor.net:5040",
 		"timeout": 150
 	}],
 	"user": "RMoDkFtnSRpYF7cFiZrSmQYYxcbMH8j3x1.PHONES",
